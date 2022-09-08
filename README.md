@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Jest, etc.**
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/imalisina](https://github.com/imalisina)
+- 👨‍💻 All of my personal sample projects for job interviews are available at [https://github.com/imalisina](https://github.com/imalisina)
 
 - 📫 How to reach me **barghandanalisina@gmail.com**
 
