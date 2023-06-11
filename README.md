@@ -1,7 +1,7 @@
 <h1 align="center">Alisina Barghandan</h1>
 <h3 align="center">A Programmer from Milky Way 🌌</h3>
 
-- 🌱 I’m currently learning **Jest, etc.**
+- 🌱 I’m currently working on **Limu**
 
 - 👨‍💻 All of my personal sample projects for job interviews are available at [https://github.com/imalisina](https://github.com/imalisina)
 
