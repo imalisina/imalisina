@@ -1,13 +1,7 @@
-<h1 align="center">Alisina Barghandan</h1>
+<h1 align="center">Pars Barghandan</h1>
 <h3 align="center">A Programmer from Milky Way 🌌</h3>
 
-- 🌱 I’m currently working on **Limu**
-
-- 👨‍💻 All of my personal sample projects for job interviews are available at [https://github.com/imalisina](https://github.com/imalisina)
-
-- 📫 How to reach me **barghandanalisina@gmail.com**
-
-- ⚡ Fun fact **Sigma 🐺**
+- 🌱 I’m currently working on **Averon** & **Cogni** 
 
 <p align="left">
 </p>
